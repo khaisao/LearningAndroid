@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="0dp"
+
+    android:layout_marginTop="5dp"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    android:layout_marginBottom="20dp"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:background="@drawable/album_shape"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_play_circle_filled_24"
+            android:background="@android:color/holo_blue_light"
+            android:layout_width="130dp"
+            android:layout_height="130dp"/>
+        <TextView
+            android:id="@+id/tv_songname"
+            android:layout_marginStart="5dp"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="23sp"
+            android:text="Ten ca si"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:id="@+id/tv_artistname"
+            android:layout_marginStart="5dp"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="20sp"
+            android:text="Ten ca si"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

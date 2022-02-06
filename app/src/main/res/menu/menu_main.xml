@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group >
+        <item android:id="@+id/menu_song"
+            android:title="Bài hát"
+            android:icon="@drawable/ic_baseline_music_note_24"/>
+        <item android:id="@+id/menu_album"
+            android:title="Album"
+            android:icon="@drawable/ic_baseline_music_note_24"/>
+        <item android:id="@+id/menu_artist"
+            android:title="Artist"
+            android:icon="@drawable/ic_baseline_music_note_24"/>
+    </group>
+    <item android:id="@+id/item_other"
+        android:title="Other"
+        android:icon="@drawable/abc_vector_test"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView" >
+
+        <menu>
+            <item android:id="@+id/menu_minigame"
+                android:title="Mini Game"
+                android:icon="@drawable/ic_baseline_music_note_24"/>
+        </menu>
+
+    </item>
+</menu>

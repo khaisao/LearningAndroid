@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/holo_blue_light"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:layout_width="100dp"
+            android:background="#2892BA"
+            android:padding="15dp"
+            android:src="@drawable/ic_baseline_music_note_24"
+            android:layout_height="100dp"/>
+        <LinearLayout
+            android:background="@android:color/holo_blue_light"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:gravity="center_vertical"
+            android:layout_height="100dp">
+            <TextView
+                android:id="@+id/tv_songname"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:text="Quaver the Horizon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/tv_artistname"
+                android:textSize="17sp"
+                android:textColor="@color/white"
+                android:text="Ten ca si"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+<View
+    android:paddingTop="10dp"
+    android:background="#393434"
+    android:layout_width="match_parent"
+    android:layout_height="1dp"/>
+
+</LinearLayout>
