@@ -15,6 +15,7 @@ import com.example.newsapp.model.Article
 @TypeConverters(Converters::class)
 abstract class ArticleDatabase :RoomDatabase(){
     abstract  fun articleDao():ArticleDao
+
 //        companion object {
 //            @Volatile
 //            private var instance: ArticleDatabase? = null
@@ -29,4 +30,5 @@ abstract class ArticleDatabase :RoomDatabase(){
 //                    "article_db.db"
 //                ).build()
 //        }
+
 }

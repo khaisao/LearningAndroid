@@ -13,11 +13,11 @@ import com.example.newsapp.databinding.ActivitySearchBinding
 import com.example.newsapp.model.Article
 import com.example.newsapp.vm.ArticleViewModel
 import dagger.hilt.android.AndroidEntryPoint
-import dagger.hilt.android.HiltAndroidApp
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.MainScope
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
+
 @AndroidEntryPoint
 class SearchActivity : AppCompatActivity(),ArticleItemClick {
     private lateinit var binding:ActivitySearchBinding

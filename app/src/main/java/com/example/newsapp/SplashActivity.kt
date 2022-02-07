@@ -4,9 +4,8 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.newsapp.databinding.ActivitySplashBinding
-import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.*
-import java.lang.Thread.sleep
+
 
 class SplashActivity : AppCompatActivity() {
     private lateinit var binding:ActivitySplashBinding

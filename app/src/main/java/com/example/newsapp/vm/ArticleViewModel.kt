@@ -1,8 +1,10 @@
 package com.example.newsapp.vm
 
 import android.app.Application
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+
+
+import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
 import com.example.newsapp.api.ArticleAPI
 import com.example.newsapp.db.ArticleDao
@@ -13,8 +15,7 @@ import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 @HiltViewModel
-class ArticleViewModel @Inject constructor(private val application: Application, private val articleDao:ArticleDao , private val articleAPI:ArticleAPI) :
-    ViewModel() {
+class ArticleViewModel @Inject constructor(private val application: Application, private val articleDao:ArticleDao , private val articleAPI:ArticleAPI) : ViewModel() {
 
     var teslaList = MutableLiveData<List<Article>>()
     var searchList = MutableLiveData<List<Article>>()
@@ -32,7 +33,6 @@ class ArticleViewModel @Inject constructor(private val application: Application,
 
     private suspend fun getAllTesla() {
         val response = articleAPI.getAllTesla().articles
-
         teslaList.postValue(response)
     }
 
