@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Point Reader</string>
+    <string name="explore">探検</string>
+    <string name="your_feedback_help_us_to_improve">あなたのフィードバックは私たちが改善するのに役立ちます。</string>
+    <string name="please_let_us_know_about_your_problem">問題についてお知らせください。</string>
+    <string name="name">名前</string>
+    <string name="your_feedback">あなたのフィードバック...</string>
+    <string name="send">送信</string>
+    <string name="bookmark">ブックマーク</string>
+    <string name="find_the_document">ドキュメントを探す</string>
+    <string name="language">言語</string>
+    <string name="share_app">共有アプリ</string>
+    <string name="feedback">フィードバック</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="are_you_sure_to_delete_this_file">このファイルを削除してもよろしいですか？</string>
+    <string name="delete">消去</string>
+    <string name="cancel">キャンセル</string>
+    <string name="rename">名前を変更</string>
+    <string name="ok">OK</string>
+    <string name="sort_by_file_name">ファイル名で並べ替え</string>
+    <string name="sort_by_created_time">作成時間で並べ替え</string>
+    <string name="sort_by_aceessed_time">アクセス時間で並べ替え</string>
+    <string name="more_app">より多くのアプリ</string>
+    <string name="no_item">アイテムなし</string>
+</resources>

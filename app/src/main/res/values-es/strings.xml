@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Point Reader</string>
+    <string name="explore">Explorar</string>
+    <string name="your_feedback_help_us_to_improve">Tus comentarios nos ayudan a mejorar.</string>
+    <string name="please_let_us_know_about_your_problem">Por favor, háganos saber acerca de su problema.</string>
+    <string name="name">Nombre</string>
+    <string name="your_feedback">Tu retroalimentación...</string>
+    <string name="send">Enviar</string>
+    <string name="english">inglés</string>
+    <string name="ti_ng_vi_t">vietnamita</string>
+    <string name="bookmark">Marcador</string>
+    <string name="find_the_document">Encuentra el documento</string>
+    <string name="language">Idioma</string>
+    <string name="share_app">Compartir aplicación</string>
+    <string name="feedback">Realimentación</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="are_you_sure_to_delete_this_file">¿Estás seguro de eliminar este archivo?</string>
+    <string name="delete">Borrar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="rename">Rebautizar</string>
+    <string name="ok">OK</string>
+    <string name="sort_by_file_name">Ordenar por nombre de archivo</string>
+    <string name="sort_by_created_time">Ordenar por tiempo de creación</string>
+    <string name="sort_by_aceessed_time">Ordenar por tiempo de acceso</string>
+    <string name="more_app">Más aplicaciones</string>
+    <string name="no_item">Sin objeto</string>
+</resources>

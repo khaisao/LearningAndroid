@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Point Reader</string>
+    <string name="explore">अन्वेषण करना</string>
+    <string name="your_feedback_help_us_to_improve">आपकी प्रतिक्रिया हमें बेहतर बनाने में मदद करती है।</string>
+    <string name="please_let_us_know_about_your_problem">कृपया हमें अपनी समस्या के बारे में बताएं।</string>
+    <string name="name">नाम</string>
+    <string name="your_feedback">आपकी प्रतिक्रिया...</string>
+    <string name="send">भेजना</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="ti_ng_vi_t">वियतनामी</string>
+    <string name="bookmark">बुकमार्क</string>
+    <string name="find_the_document">दस्तावेज़ खोजें</string>
+    <string name="language">भाषा</string>
+    <string name="share_app">ऐप शेयर करें</string>
+    <string name="feedback">प्रतिपुष्टि</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="are_you_sure_to_delete_this_file">क्या आप वाकई इस फ़ाइल को हटाना चाहते हैं?</string>
+    <string name="delete">हटाएं</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="rename">नाम बदलें</string>
+    <string name="ok">ठीक</string>
+    <string name="sort_by_file_name">फ़ाइल नाम के आधार पर छाँटें</string>
+    <string name="sort_by_created_time">निर्मित समय के अनुसार छाँटें</string>
+    <string name="sort_by_aceessed_time">एक्सेस किए गए समय के आधार पर छाँटें</string>
+    <string name="more_app">और ज्यादा एप्लीकेशन</string>
+    <string name="no_item">कोई सामान नहीं</string>
+</resources>

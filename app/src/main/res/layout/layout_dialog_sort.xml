@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_dialog_corner"
+    tools:context=".ui.activity.MainActivity">
+
+    <LinearLayout
+        android:paddingTop="20dp"
+        android:gravity="center"
+        android:paddingBottom="20dp"
+        android:id="@+id/ll_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <ImageView
+            android:id="@+id/iv_azsort_blac"
+            android:paddingStart="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_azsort_black" />
+
+        <TextView
+            android:textSize="16sp"
+            android:fontFamily="@font/roboto_medium"
+            android:textColor="#0D1436"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:text="@string/sort_by_file_name" />
+
+        <ImageView
+            android:id="@+id/iv_tickName"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_ticksort" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingTop="20dp"
+android:gravity="center"
+        android:paddingBottom="20dp"
+        android:id="@+id/ll_create"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ll_name">
+
+        <ImageView
+            android:paddingStart="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_timesort" />
+
+        <TextView
+            android:textSize="16sp"
+            android:fontFamily="@font/roboto_medium"
+            android:textColor="#0D1436"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:text="@string/sort_by_created_time" />
+
+        <ImageView
+            android:visibility="invisible"
+            android:id="@+id/iv_tickCreate"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_ticksort" />
+    </LinearLayout>
+    <LinearLayout
+        android:paddingTop="20dp"
+android:gravity="center"
+        android:paddingBottom="20dp"
+        android:id="@+id/ll_access"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ll_create">
+
+        <ImageView
+            android:paddingStart="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_foldersort" />
+
+        <TextView
+            android:textSize="16sp"
+            android:fontFamily="@font/roboto_medium"
+            android:textColor="#0D1436"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:text="@string/sort_by_aceessed_time" />
+
+        <ImageView
+            android:visibility="invisible"
+            android:id="@+id/iv_tickAcc"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_ticksort" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

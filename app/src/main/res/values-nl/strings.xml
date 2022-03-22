@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Point Reader</string>
+    <string name="explore">Ontdekken</string>
+    <string name="your_feedback_help_us_to_improve">Uw feedback helpt ons te verbeteren.</string>
+    <string name="please_let_us_know_about_your_problem">Laat het ons weten over uw probleem.</string>
+    <string name="name">Naam</string>
+    <string name="your_feedback">Uw reactie...</string>
+    <string name="send">Versturen</string>
+    <string name="english">Engels</string>
+    <string name="ti_ng_vi_t">Vietnamees</string>
+    <string name="bookmark">Bladwijzer</string>
+    <string name="find_the_document">Zoek het document</string>
+    <string name="language">Taal</string>
+    <string name="share_app">Deel app</string>
+    <string name="feedback">Feedback</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="are_you_sure_to_delete_this_file">Weet je zeker dat je dit bestand wilt verwijderen?</string>
+    <string name="delete">Verwijderen</string>
+    <string name="cancel">Annuleren</string>
+    <string name="rename">Hernoemen</string>
+    <string name="ok">Oke</string>
+    <string name="sort_by_file_name">Sorteren op bestandsnaam</string>
+    <string name="sort_by_created_time">Sorteren op aanmaaktijd</string>
+    <string name="sort_by_aceessed_time">Sorteren op bezochte tijd</string>
+    <string name="more_app">Meer App</string>
+    <string name="no_item">Geen item</string>
+</resources>

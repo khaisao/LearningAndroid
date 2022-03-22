@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.chauthai.swipereveallayout.SwipeRevealLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/sw_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:dragEdge="right"
+    android:background="@drawable/bg_line_bottom_item"
+    app:mode="same_level">
+
+    <LinearLayout
+        android:background="#F2F3F4"
+        android:id="@+id/ll_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_like"
+            android:paddingStart="13dp"
+            android:paddingEnd="13dp"
+            android:layout_width="46dp"
+            android:layout_height="match_parent"
+            android:background="#0D0D1436"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:src="@drawable/ic_star_no_color" />
+        <ImageView
+            android:id="@+id/iv_unlike"
+            android:paddingStart="13dp"
+            android:paddingEnd="13dp"
+            android:layout_width="46dp"
+            android:layout_height="match_parent"
+            android:background="#0D0D1436"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:src="@drawable/ic_starcolor" />
+
+        <ImageView
+            android:id="@+id/iv_share"
+            android:paddingStart="13dp"
+            android:paddingEnd="13dp"
+            android:layout_width="46dp"
+            android:layout_height="match_parent"
+            android:background="#0D0D1436"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:src="@drawable/ic_share" />
+
+        <ImageView
+            android:id="@+id/iv_edit"
+            android:paddingStart="13dp"
+            android:paddingEnd="13dp"
+            android:layout_width="46dp"
+            android:layout_height="match_parent"
+            android:background="#0D0D1436"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:src="@drawable/ic_edit" />
+
+        <ImageView
+            android:id="@+id/iv_delete"
+            android:paddingStart="13dp"
+            android:paddingEnd="13dp"
+            android:layout_width="44dp"
+            android:layout_height="match_parent"
+            android:background="#0D0D1436"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:src="@drawable/ic_delete" />
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cl_item"
+        android:layout_width="match_parent"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_ppt"
+            android:layout_width="24dp"
+            android:layout_height="33.867dp"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/ic_ppt"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@id/iv_ppt"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/tv_file_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="18.667dp"
+                android:fontFamily="@font/roboto_bold"
+                android:text="How to collect all 6 infi.pptx"
+                android:textColor="#CC0D1436"
+                android:textSize="19sp" />
+
+            <TextView
+                android:id="@+id/tv_file_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="18.667dp"
+                android:fontFamily="@font/roboto_medium"
+                android:text="02:21, 10 Feb 2022"
+                android:textColor="#640D1436"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.chauthai.swipereveallayout.SwipeRevealLayout>

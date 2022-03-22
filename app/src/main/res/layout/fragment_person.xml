@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.fragment.PersonFragment">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="159.027dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="34.446dp"
+        android:src="@drawable/ic_pptlogo" />
+
+    <LinearLayout
+        android:layout_gravity="center_vertical"
+        android:id="@+id/ll_language"
+        android:layout_marginTop="41dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="41dp"
+        android:layout_marginBottom="50dp">
+
+        <ImageView
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:src="@drawable/ic_language" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="28dp"
+            android:fontFamily="@font/roboto"
+            android:text="@string/language"
+            android:textColor="#0D1436"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_share_app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="41dp"
+        android:layout_marginBottom="50dp">
+
+        <ImageView
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:src="@drawable/ic_shareappperson" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="28dp"
+            android:fontFamily="@font/roboto"
+            android:text="@string/share_app"
+            android:textColor="#0D1436"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="41dp"
+        android:layout_marginBottom="50dp">
+
+        <ImageView
+            android:layout_width="23dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_feedback" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="28dp"
+            android:fontFamily="@font/roboto"
+
+            android:text="@string/feedback"
+            android:textColor="#0D1436"
+            android:textSize="20sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_more_app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="41dp"
+        android:layout_marginBottom="50dp">
+
+        <ImageView
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:src="@drawable/ic_moreapp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="28dp"
+            android:fontFamily="@font/roboto"
+
+            android:text="@string/more_app"
+            android:textColor="#0D1436"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_privacy"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:layout_marginStart="41dp">
+
+        <ImageView
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:src="@drawable/ic_privacy" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="28dp"
+            android:fontFamily="@font/roboto"
+
+            android:text="@string/privacy_policy"
+            android:textColor="#0D1436"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</LinearLayout>

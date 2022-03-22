@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Point Reader</string>
+    <string name="explore">Mengeksplorasi</string>
+    <string name="your_feedback_help_us_to_improve">Umpan balik Anda membantu kami untuk meningkatkan.</string>
+    <string name="please_let_us_know_about_your_problem">Harap beri tahu kami tentang masalah Anda.</string>
+    <string name="name">Nama</string>
+    <string name="your_feedback">Tanggapan Anda...</string>
+    <string name="send">Mengirim</string>
+    <string name="english">bahasa Inggris</string>
+    <string name="ti_ng_vi_t">Orang Vietnam</string>
+    <string name="bookmark">Penanda buku</string>
+    <string name="find_the_document">Temukan dokumennya</string>
+    <string name="language">Bahasa</string>
+    <string name="share_app">Bagikan Aplikasi</string>
+    <string name="feedback">Masukan</string>
+    <string name="privacy_policy">Kebijakan pribadi</string>
+    <string name="are_you_sure_to_delete_this_file">Apakah Anda yakin akan menghapus file ini?</string>
+    <string name="delete">Menghapus</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="rename">Ganti nama</string>
+    <string name="ok">oke</string>
+    <string name="sort_by_file_name">Urutkan berdasarkan Nama File</string>
+    <string name="sort_by_created_time">Urutkan berdasarkan Waktu Dibuat</string>
+    <string name="sort_by_aceessed_time">Urutkan berdasarkan Waktu yang Diakses</string>
+    <string name="more_app">Lebih Banyak Aplikasi</string>
+    <string name="no_item">Tidak ada barang</string>
+</resources>

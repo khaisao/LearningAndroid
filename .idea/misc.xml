@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/bg_cancel_button.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/bg_continue_corner.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/bg_dialog_corner.xml" value="0.1175" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/bg_dialog_permission.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/bg_language_line_bottom.xml" value="0.148" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/bg_line_bottom_item.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/bg_ok_button.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/btn_feedback_radius.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/edt_radius.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_azsort.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_azsort_blue.xml" value="0.124" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_edit.xml" value="0.124" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_foldersort.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_home.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_home_bt.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_homecolor.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1175" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1175" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_logosplash.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_logotextsplash.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_moreapp.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_news.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_news_bt.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_newscolor.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_person.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_person_bt.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_personcolor.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_ppt.xml" value="0.1175" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_pptlogo.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_privacy.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_search.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_share.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_shareappperson.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_sortmenu.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_star.xml" value="0.8" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_star_bt.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_star_color.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_star_no_color.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_starcolor.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_ticksort.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/ic_timesort.xml" value="0.241" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/drawable/outline_close_24.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout-v28/layout_dialog_rename.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/activity_feedback.xml" value="0.264" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/activity_language.xml" value="0.2" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/activity_pptslide.xml" value="0.1421875" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/edit_border.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/fragment_bookmark.xml" value="0.264" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/fragment_news.xml" value="0.1421875" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/fragment_person.xml" value="0.264" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/item_bookmark.xml" value="0.1421875" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/item_explore.xml" value="0.2" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/layout_dialog_delete.xml" value="0.264" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/layout_dialog_permission.xml" value="0.2" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/layout_dialog_rename.xml" value="0.2" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/layout_dialog_sort.xml" value="0.264" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/layout/layout_swipe_item.xml" value="0.1421875" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.152" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/app/src/main/res/xml/file_paths.xml" value="0.564453125" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/drawable/ic_share_black.xml" value="0.1465" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/drawable/ic_star.xml" value="0.148" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/layout/activity_office_detail.xml" value="0.1421875" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/layout/file_item_view.xml" value="0.2" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/layout/pen_setting_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/layout/select_dialog_singlechoice.xml" value="0.2" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/layout/setting_dialog_item.xml" value="0.2" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/menu/menu_app_act.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/menu/menu_app_with_jump.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Kirito/AndroidStudioProjects/power-point-reader/office/src/main/res/menu/sys_menu.xml" value="0.12239583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

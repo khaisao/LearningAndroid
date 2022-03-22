@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lecteur Power Point</string>
+    <string name="explore">Explorer</string>
+    <string name="your_feedback_help_us_to_improve">Vos commentaires nous aident à nous améliorer.</string>
+    <string name="please_let_us_know_about_your_problem">Veuillez nous faire part de votre problème.</string>
+    <string name="name">Nom</string>
+    <string name="your_feedback">Vos réactions...</string>
+    <string name="send">Envoyer</string>
+    <string name="english">Anglais</string>
+    <string name="ti_ng_vi_t">vietnamien</string>
+    <string name="bookmark">Signet</string>
+    <string name="find_the_document">Trouver le document</string>
+    <string name="language">Langue</string>
+    <string name="share_app">Partager l\'application</string>
+    <string name="feedback">Retour d\'information</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="are_you_sure_to_delete_this_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Annuler</string>
+    <string name="rename">Renommer</string>
+    <string name="ok">d\'accord</string>
+    <string name="sort_by_file_name">Trier par nom de fichier</string>
+    <string name="sort_by_created_time">Trier par heure de création</string>
+    <string name="sort_by_aceessed_time">Trier par heure d\'accès</string>
+    <string name="more_app">Plus d\'application</string>
+    <string name="no_item">Pas d\'objet</string>
+</resources>

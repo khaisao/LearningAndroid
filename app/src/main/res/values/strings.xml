@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Power Point Reader</string>
+    <string name="explore">Explore</string>
+    <string name="your_feedback_help_us_to_improve">Your feedback help us to improve.</string>
+    <string name="please_let_us_know_about_your_problem">Please let us know about your problem.</string>
+    <string name="name">Name</string>
+    <string name="your_feedback">Your feedback...</string>
+    <string name="send">Send</string>
+    <string name="english">English</string>
+    <string name="ti_ng_vi_t">Vietnamese</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="find_the_document">Find the document</string>
+    <string name="language">Language</string>
+    <string name="share_app">Share App</string>
+    <string name="feedback">Feedback</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="are_you_sure_to_delete_this_file">Are you sure to delete this file?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename">Rename</string>
+    <string name="ok">OK</string>
+    <string name="sort_by_file_name">Sort by File Name</string>
+    <string name="sort_by_created_time">Sort by Created Time</string>
+    <string name="sort_by_aceessed_time">Sort by Accessed Time</string>
+    <string name="more_app">More App</string>
+    <string name="no_item">No item</string>
+</resources>
